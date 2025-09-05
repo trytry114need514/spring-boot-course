@@ -11,5 +11,15 @@ my:
     content: 期待周一
     author: "码农"
   feature:
-    helloSwitch: true
+    helloSwitch: false
     closeMsg: "该接口正在维护，10分钟之后再来吧！"
+
+chsh:
+  sms:
+    ccp:
+      serverIp: app.cloopen.com
+      port: 8883
+      accountSId: 2c94811c9860a9c4019917b57b5b1d6d
+      accountToken: 22e34fc7b68c4d77af391e07f40c7a2f
+      appId: 2c94811c9860a9c4019917b57ccf1d74
+      templateId: 1
