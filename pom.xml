@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>spring-boot-week1</module>
+        <module>spring-bot-config</module>
     </modules>
     <scm>
         <connection/>

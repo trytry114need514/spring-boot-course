@@ -1,0 +1,17 @@
+server:
+  port: 8088
+
+team:
+  name: "WebLearn"
+  leader: ${teacher.name}
+  age: ${random.int(1,4)}
+  phone: "11451419198"
+
+teacher:
+  name: "张三"
+
+aliyun-oss:
+  endpoint: "oss-cn-hangzhou.aliyuncs.com"
+  bucket: "spring-study-chsh"
+
+  dir: "img/"
