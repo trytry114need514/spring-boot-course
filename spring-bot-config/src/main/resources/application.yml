@@ -9,9 +9,3 @@ team:
 
 teacher:
   name: "张三"
-
-aliyun-oss:
-  endpoint: "oss-cn-hangzhou.aliyuncs.com"
-  bucket: "spring-study-chsh"
-
-  dir: "img/"

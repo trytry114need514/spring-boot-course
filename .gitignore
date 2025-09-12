@@ -19,6 +19,10 @@ target/
 *.iml
 *.ipr
 
+.idea/
+
+spring-bot-config/src/main/resources/aliyun-oss.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
