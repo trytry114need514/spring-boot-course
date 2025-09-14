@@ -9,3 +9,23 @@ team:
 
 teacher:
   name: "张三"
+
+
+custom:
+  qrcode:
+    url: www.google.com
+
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 2975803810@qq.com
+    password: pdcdxgauhhokdeaj
+    protocol: smtp
+    properties.mail.smtp.auth: true
+    properties.mail.smtp.port: 465
+    properties.mail.display.sendmail: Spring Boot
+    properties.mail.display.sendname: Spring Boot Guide Email
+    properties.mail.smtp.starttls.enable: true
+    properties.mail.smtp.starttls.required: true
+    properties.mail.smtp.ssl.enable: true
+    default-encoding: utf-8
